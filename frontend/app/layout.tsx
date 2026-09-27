@@ -1,0 +1,1 @@
+import'./globals.css';export const metadata={title:'Countermelody',description:'A validator-seated cooperative score.'};export default function L({children}:{children:React.ReactNode}){return <html lang="en"><body>{children}</body></html>}
