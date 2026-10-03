@@ -6,6 +6,8 @@
   "deploymentConsensus": "MAJORITY_AGREE",
   "deploymentExecution": "SUCCESS",
   "sourceSha256": "fbc27c510ac47b10d0df41f73aaf5adc192cc4df2df7b0df5941d384d7caa585",
+  "sourceCommit": "155aeb5f786ce30a0b520e38410200ed0bf2b4b4",
+  "frontendDeployment": "https://0c3388d4.sanshos1-countermelody.pages.dev/",
   "repository": "https://github.com/sanshos1/countermelody",
   "publicSite": "https://sanshos1-countermelody.pages.dev/",
   "explorerContract": "https://explorer-studio.genlayer.com/address/0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712",

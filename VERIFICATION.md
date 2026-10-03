@@ -1,6 +1,6 @@
 # Verification
 
-The corrected one-shot contract passed four originality and safety tests, GenVM lint and semantic validation. The frontend passed TypeScript checking, static export, emoji scan, and em dash scan.
+The corrected one-shot contract at reviewed source commit `155aeb5f786ce30a0b520e38410200ed0bf2b4b4` passed four originality and safety tests, GenVM lint and semantic validation. Its local SHA-256 `fbc27c510ac47b10d0df41f73aaf5adc192cc4df2df7b0df5941d384d7caa585` matches the decoded deployed source byte-for-byte. The frontend passed TypeScript checking, static export, emoji scan, and em dash scan.
 
 StudioNet finalized deployment [`0xbec9624e...39468`](https://explorer-studio.genlayer.com/transactions/0xbec9624e6d6b717192c5883194c4e1ecb9d1173ecbde83d791440d5704839468) with `MAJORITY_AGREE` and leader execution `SUCCESS`, producing contract [`0x6a4b...A9712`](https://explorer-studio.genlayer.com/address/0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712).
 
