@@ -37,4 +37,4 @@ The stable `genlayer-py 0.18.0` pin is intentional for StudioNet transaction enc
 - Contract: [`0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712`](https://explorer-studio.genlayer.com/address/0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712)
 - Deployment receipt: [`0xbec9624e6d6b717192c5883194c4e1ecb9d1173ecbde83d791440d5704839468`](https://explorer-studio.genlayer.com/transactions/0xbec9624e6d6b717192c5883194c4e1ecb9d1173ecbde83d791440d5704839468)
 - Finalized analysis: [`PAIR-1791052224`](https://explorer-studio.genlayer.com/transactions/0xc1451af0d857856e38f49df1307da28db0d070de3cb4305769c799bed736450c)
-- Public listening room: https://sanshos1-countermelody.pages.dev/
+- Public listening room: https://countermelody.pages.dev/

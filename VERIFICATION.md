@@ -6,4 +6,4 @@ StudioNet finalized deployment [`0xbec9624e...39468`](https://explorer-studio.ge
 
 Live record `PAIR-1791052224` finalized in transaction [`0xc145...450c`](https://explorer-studio.genlayer.com/transactions/0xc1451af0d857856e38f49df1307da28db0d070de3cb4305769c799bed736450c) with `MAJORITY_AGREE` and `SUCCESS`. Canonical readback returned `COUNTERPOINT`, all three verified checks true, no friction flags, and derived verdict `INTERLOCKED` with both SHA-256 fingerprints.
 
-Cloudflare deployment `0c3388d4` published the corrected build at https://sanshos1-countermelody.pages.dev/. Browser verification loaded the bilateral listening surface, the new contract Explorer link, and canonical record `PAIR-1791052224` as `COUNTERPOINT / INTERLOCKED` with three positive checks and both stored fingerprints.
+Cloudflare deployment `e789f8fe` published the corrected build at https://countermelody.pages.dev/. Browser verification loaded the bilateral listening surface, the contract Explorer link, and canonical record `PAIR-1791052224` as `COUNTERPOINT / INTERLOCKED` with three positive checks and both stored fingerprints.
