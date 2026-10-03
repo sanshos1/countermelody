@@ -1,0 +1,26 @@
+{
+  "network": "StudioNet",
+  "contract": "0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712",
+  "recordId": "PAIR-1791052224",
+  "transaction": "0xc1451af0d857856e38f49df1307da28db0d070de3cb4305769c799bed736450c",
+  "status": "FINALIZED",
+  "consensus": "MAJORITY_AGREE",
+  "execution": "SUCCESS",
+  "explorer": "https://explorer-studio.genlayer.com/transactions/0xc1451af0d857856e38f49df1307da28db0d070de3cb4305769c799bed736450c",
+  "state": {
+    "anchor": "A patient four-note phrase rises by step, pauses on the third beat, and settles gently into the tonal center.",
+    "anchor_digest": "4f06201a164335a1c3a6128895a41f66c777d92a154b83e6d11d47e94ea3f807",
+    "author": "0xAD049E0Edc298C97552eD60071a35bfc60181FD4",
+    "counterline": "A lower answering phrase moves in contrary motion, enters after the pause, and leaves the final cadence unobstructed.",
+    "counterline_digest": "2e00cf7da60ad29e50a03d498237302db791de5935709cefe7b2505467df4b24",
+    "flags": [],
+    "harmonic_fit": true,
+    "id": "PAIR-1791052224",
+    "independent_contour": true,
+    "intent": "Create a calm call-and-response texture where both voices remain recognizable and share rhythmic space.",
+    "relation": "COUNTERPOINT",
+    "rhythmic_space": true,
+    "seq": 1,
+    "verdict": "INTERLOCKED"
+  }
+}

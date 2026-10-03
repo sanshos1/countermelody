@@ -1,1 +1,13 @@
-{"account":"sanshos1","network":"StudioNet","contractAddress":"0x7e3Ea19eC9416682A06488B0a75e16BBe7Dd1002","deploymentTransaction":"0x7bdab905998360835e3a0a2bc1c0a8da517e4a3ed0897a863b0b39d42605bd8b","deploymentConsensus":"MAJORITY_AGREE","deploymentExecution":"SUCCESS","sourceSha256":"328775c5a4312335f4afb13db70880fe78461bf0d57e22a69c90ad03ee863d9a","repository":"https://github.com/sanshos1/countermelody","publicSite":"https://sanshos1-countermelody.pages.dev/"}
+{
+  "account": "sanshos1",
+  "network": "StudioNet",
+  "contractAddress": "0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712",
+  "deploymentTransaction": "0xbec9624e6d6b717192c5883194c4e1ecb9d1173ecbde83d791440d5704839468",
+  "deploymentConsensus": "MAJORITY_AGREE",
+  "deploymentExecution": "SUCCESS",
+  "sourceSha256": "fbc27c510ac47b10d0df41f73aaf5adc192cc4df2df7b0df5941d384d7caa585",
+  "repository": "https://github.com/sanshos1/countermelody",
+  "publicSite": "https://sanshos1-countermelody.pages.dev/",
+  "explorerContract": "https://explorer-studio.genlayer.com/address/0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712",
+  "explorerDeployment": "https://explorer-studio.genlayer.com/transactions/0xbec9624e6d6b717192c5883194c4e1ecb9d1173ecbde83d791440d5704839468"
+}

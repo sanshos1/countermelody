@@ -1,7 +1,9 @@
 # Verification
 
-GenVM AST lint passed, two contract surface tests passed, TypeScript passed, the static export completed, and content scans passed.
+The corrected one-shot contract passed four originality and safety tests, GenVM lint and semantic validation. The frontend passed TypeScript checking, static export, emoji scan, and em dash scan.
 
-StudioNet finalized deployment `0x7bdab905998360835e3a0a2bc1c0a8da517e4a3ed0897a863b0b39d42605bd8b` with `MAJORITY_AGREE` and leader execution `SUCCESS`. The deployed contract is `0x7e3Ea19eC9416682A06488B0a75e16BBe7Dd1002`.
+StudioNet finalized deployment [`0xbec9624e...39468`](https://explorer-studio.genlayer.com/transactions/0xbec9624e6d6b717192c5883194c4e1ecb9d1173ecbde83d791440d5704839468) with `MAJORITY_AGREE` and leader execution `SUCCESS`, producing contract [`0x6a4b...A9712`](https://explorer-studio.genlayer.com/address/0x6a4bA67cee717E5D3Fc2a2f63852c11064DA9712).
 
-Cloudflare canonical production returned HTTP 200 with the expected `Countermelody` title at https://sanshos1-countermelody.pages.dev/. No musical audition is claimed as accepted without a finalized public transaction.
+Live record `PAIR-1791052224` finalized in transaction [`0xc145...450c`](https://explorer-studio.genlayer.com/transactions/0xc1451af0d857856e38f49df1307da28db0d070de3cb4305769c799bed736450c) with `MAJORITY_AGREE` and `SUCCESS`. Canonical readback returned `COUNTERPOINT`, all three verified checks true, no friction flags, and derived verdict `INTERLOCKED` with both SHA-256 fingerprints.
+
+Cloudflare deployment `0c3388d4` published the corrected build at https://sanshos1-countermelody.pages.dev/. Browser verification loaded the bilateral listening surface, the new contract Explorer link, and canonical record `PAIR-1791052224` as `COUNTERPOINT / INTERLOCKED` with three positive checks and both stored fingerprints.
